@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FabricaDeCarroSingleton()
+comment1.params=
+comment1.target=java.lang.String\ criarCarroVolks()
+comment2.params=
+comment2.target=java.lang.String\ criarCarroFord()
+comment3.params=
+comment3.target=java.lang.String\ criarCarroFiat()
+comment4.params=
+comment4.target=java.lang.String\ gerarRelatorio()
+comment5.params=
+comment5.target=FabricaDeCarroSingleton\ getInstancia()
+numComments=6
